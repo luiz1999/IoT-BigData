@@ -1,8 +1,8 @@
 # Pipeline de Dados IoT — Temperaturas
 
 **Disciplina:** Disruptive Architectures: IoT, Big Data e IA  
-**Aluno:** [Seu Nome Completo]  
-**Repositório:** `{nome}{sobrenome}bigdatafecaf`
+**Aluno:** Luiz Filipe Santiago Pereira  
+**Repositório:** `{Luiz1999} - IoT-BigData`
 
 ---
 
@@ -135,16 +135,15 @@ Mostra máxima e mínima por dia. Maior amplitude térmica em setembro/outubro 2
 
 ## Capturas de tela do dashboard
 
-> Insira aqui os prints após rodar `streamlit run src/main.py`
 
 **Gráfico 1 — Pizza: Distribuição de leituras In vs Out**  
-![Print 1](docs/print1.png)
+![Print 1](docs/img/print1.png)
 
 **Gráfico 2 — Linha: Leituras por hora do dia**  
-![Print 2](docs/print2.png)
+![Print 2](docs/img/print2.png)
 
 **Gráfico 3 — Linha dupla: Temperaturas máximas e mínimas por dia**  
-![Print 3](docs/print3.png)
+![Print 3](docs/img/print3.png)
 
 ---
 
@@ -186,6 +185,3 @@ git push -u origin main
 
 ---
 
-## Deploy
-
-Aplicação em produção: **[link do Render.com aqui]**
