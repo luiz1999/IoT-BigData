@@ -137,13 +137,13 @@ Mostra máxima e mínima por dia. Maior amplitude térmica em setembro/outubro 2
 
 
 **Gráfico 1 — Pizza: Distribuição de leituras In vs Out**  
-![Print 1](docs/img/print1.png)
+![Print 1](docs/print1.png)
 
 **Gráfico 2 — Linha: Leituras por hora do dia**  
-![Print 2](docs/img/print2.png)
+![Print 2](docs/print2.png)
 
 **Gráfico 3 — Linha dupla: Temperaturas máximas e mínimas por dia**  
-![Print 3](docs/img/print3.png)
+![Print 3](docs/print3.png)
 
 ---
 
